@@ -1,0 +1,60 @@
+body {
+    background-color: #4CB9E7;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.body {
+    background-color: #fff9f4;
+    border: 3px solid;
+    box-shadow: 5px 5px;
+    border-radius: 20px;
+    margin: 100px;
+    margin-top: 80px;
+}
+
+h1 {
+    font-size: 60px;
+    .save-name {
+        color: #152E8F;
+    }
+}
+
+a {
+    color:#000
+}
+
+.feature-divider {
+    margin-left: 12%;
+    margin-right: 12%;
+}
+
+span.save-color {
+    color:#152E8F;
+}
+
+li.nav-item {
+    font-weight: bold;
+}
+
+ul.dropdown-menu {
+    border: 2px solid;
+    border-radius: 10px;
+    background-color: #c0e4f3;
+}
+
+.project-item {
+    background-color: #fff8ef;
+    border: solid;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.contact-item {
+    background-color: #fff8ef;
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: solid 3px;
+    border-radius: 20px;
+}
